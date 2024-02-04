@@ -31,7 +31,7 @@ a {
 .mask {
   height: 13.8rem;
   border-radius: 4px 4px 0 0;
-  background: url('./assets/image2.jfif');
+  background: url('./image2.jfif');
   background-repeat: no-repeat;
   background-size: cover;
   transition: transform 0.3s ease-in-out;
@@ -39,7 +39,7 @@ a {
 }
 
 .mask:hover {
-  background: url('./assets/image1.jpg');
+  background: url('./image1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   transform: scale(1.05);
